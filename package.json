@@ -1,0 +1,67 @@
+{
+  "name": "DevDay",
+  "version": "0.0.0",
+  "description": "Sample for ConSol DevDay",
+  "main": "index.js",
+  "devDependencies": {
+    "live-reload": "latest",
+    "browserify-shim": "latest",
+    "glob": "latest",
+    "css-concat": "latest",
+    "rimraf": "~2.2.8",
+    "stylus": "~0.49.3",
+    "watch": "latest",
+    "browserify": "latest",
+    "npm-watch": "latest",
+    "cross-spawn": "~0.2.3",
+    "ncp": "~1.0.1",
+    "readable-stream": "latest"
+  },
+  "scripts": {
+    "test": "test",
+    "clean": "rimraf target",
+    "copy:html:old": "node copyStatic src/**/*.html target/ src/ ",
+    "copy:html": "ncp src/static target/",
+    "copy:fonts": "ncp node_modules/font-awesome/fonts/ target/fonts/ && ncp node_modules/bootstrap/dist/fonts/ target/fonts/",
+    "copy:static": "npm run copy:html && npm run copy:fonts",
+    "build:css": "lessc src/styles/main.less target/css/main.css",
+    "build:js": "browserify --entry src/app/index.js --outfile target/app.js",
+    "build:all": "npm run clean && npm run copy:static && npm run build:css && npm run build:js",
+    "liveReload": "live-reload --port 9091 target/",
+    "watch": "npm-watch"
+  },
+  "browser": {
+    "lodash": "./node_modules/lodash/dist/lodash.min.js",
+    "angular": "./node_modules/angular/angular.min.js",
+    "bootstrap": "./node_modules/bootstrap/dist/js/bootstrap.min.js",
+    "angular-route": "./node_modules/angular-route/angular-route.min.js",
+    "jquery": "./node_modules/jquery/dist/jquery.min.js"
+  },
+  "browserify": {
+    "transform": [
+      "browserify-shim"
+    ]
+  },
+  "browserify-shim": {
+    "jquery": "$",
+    "angular": "angular",
+    "angular-route": {
+      "depends": "angular"
+    },
+    "bootstrap": {
+      "depends": [
+        "jquery:$"
+      ]
+    }
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "font-awesome": "~4.2.0",
+    "lodash": "~2.4.1",
+    "angular": "~1.3.8",
+    "jquery": "~2.1.3",
+    "angular-route": "~1.3.9"
+  }
+}

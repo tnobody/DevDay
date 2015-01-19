@@ -1,0 +1,1392 @@
+[
+  {
+    "webimage": "http://img.youtube.com/vi/zIygy1tvCsw/0.jpg",
+    "image": "Bauchpresse_am_Seilzug.jpg",
+    "execution": "Kabelzug",
+    "level": "Anfänger",
+    "muscle": "Bauchmuskel",
+    "name": "Bauchpresse am Seilzug",
+    "section": "Bauchmuskeltraining",
+    "desc": "Die Bauchpresse am Seilzug trainiert die gerade Bauchmuskulatur."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/gMo97vRBg5A/0.jpg",
+    "image": "Beinheben_am_Boden_liegend.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Bauchmuskel",
+    "name": "Beinheben am Boden liegend",
+    "section": "Bauchmuskeltraining",
+    "desc": "Das Beinheben am Boden liegend trainiert die gerade Bauchmuskulatur, insbesondere dessen unteren Teil."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/x60UD7Q0bTM/0.jpg",
+    "image": "Crunch_-_Bauchpresse.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Bauchmuskel",
+    "name": "Crunch - Bauchpresse",
+    "section": "Bauchmuskeltraining",
+    "desc": "Crunch trainieren insbesondere die gerade Bauchmuskulatur . Um die seitliche Bauchmuskulatur intensiver zu beanspruchen, werden die Ellbogen abwechselnd ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/KQgKWl68Y5c/0.jpg",
+    "image": "Crunch_-_Geraet.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Bauchmuskel",
+    "name": "Crunch - Gerät",
+    "section": "Bauchmuskeltraining",
+    "desc": "Diese Form des Crunch trainiert die gesamte Bauchmuskulatur . Das besondere an dieser Übung ist gegenüber sonstiger Crunch-Übungen, den ..."
+  },
+  {
+    "webimage": "http://img.wikifit.de/fitnessuebungen/228/crunch-mit-angehobenen-beinen.jpg",
+    "image": "Crunch_mit_angehobenen_Beinen.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Bauchmuskel",
+    "name": "Crunch mit angehobenen Beinen",
+    "section": "Bauchmuskeltraining",
+    "desc": "Der Crunch mit angehobenen Beinen trainiert die gerade und seitliche Bauchmuskulatur ."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Crunch_mit_Kurzhantel_oder_Gewicht.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Bauchmuskel",
+    "name": "Crunch mit Kurzhantel oder Gewicht",
+    "section": "Bauchmuskeltraining",
+    "desc": "Diese Übung trainiert insbesondere den geraden Bauchmuskel. Die Stärkung des Serratus anterior reduziert die Gefahr von Schulter-Verletzungen und ..."
+  },
+  {
+    "webimage": "http://img.wikifit.de/fitnessuebungen/227/crunch-mit-ueberkreuzten-beinen.jpg",
+    "image": "Crunch_mit_ueberkreuzten_Beinen.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Bauchmuskel",
+    "name": "Crunch mit überkreuzten Beinen",
+    "section": "Bauchmuskeltraining",
+    "desc": "Crunches mit überkreuzten Beinen trainiert die Bauchmuskulatur. Insbesondere die seitliche Bauchmuskulatur wird beansprucht."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/vw8rbgo3cWg/0.jpg",
+    "image": "Hueftheben_am_Boden.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Bauchmuskel",
+    "name": "Hüftheben am Boden",
+    "section": "Bauchmuskeltraining",
+    "desc": "Hüftheben am Boden trainiert die Bauchmuskulatur , insbesondere dessen unteren Teil. Ebenso beansprucht werden der Gesäßmuskel und der Beinbeuger."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/tKNumlbBQA4/0.jpg",
+    "image": "Knieheben.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Bauchmuskel",
+    "name": "Knieheben",
+    "section": "Bauchmuskeltraining",
+    "desc": "Knieheben beansprucht die gerade und schräge Bauchmuskulatur sowie den Hüftbeuger. Es wird insbesondere die untere Bauchmuskulatur ausgebildet."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/N1fC7ANMOd8/0.jpg",
+    "image": "Oberkoerperbeugen_Kurzhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Bauchmuskel",
+    "name": "Oberkörperbeugen Kurzhantel",
+    "section": "Bauchmuskeltraining",
+    "desc": "Die Betonung liegt hauptsächlich bei der schrägen Bauchmuskulatur. Der gerade Bauchmuskel wird im geringen Maße beansprucht."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Oberkoerperdrehen.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Bauchmuskel",
+    "name": "Oberkörperdrehen",
+    "section": "Bauchmuskeltraining",
+    "desc": "Oberkörperdrehen trainiert die seitliche Bauchmuskulatur ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/wqoD0Bdggto/0.jpg",
+    "image": "Radfahr-Crunches.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Bauchmuskel",
+    "name": "Radfahr-Crunches",
+    "section": "Bauchmuskeltraining",
+    "desc": "Radfahr-Crunches trainieren die gerade und insbesondere die seitliche Bauchmuskulatur ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/jZ3kfqH4NMk/0.jpg",
+    "image": "Reverse_Crunch.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Bauchmuskel",
+    "name": "Reverse Crunch",
+    "section": "Bauchmuskeltraining",
+    "desc": "Reverse Crunch trainieren den unteren Teil der geraden Bauchmuskulatur."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/Fply4PiiN3Q/0.jpg",
+    "image": "Seitlicher_Unterarmstuetz_-_Seitplanke.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Bauchmuskel",
+    "name": "Seitlicher Unterarmstütz - Seitplanke",
+    "section": "Bauchmuskeltraining",
+    "desc": "Der Seitlicher Unterarmstütz trainiert insbesondere die Gesäß- und seitliche Bauchmuskulatur ."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Seitliches_Knieheben.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Bauchmuskel",
+    "name": "Seitliches Knieheben",
+    "section": "Bauchmuskeltraining",
+    "desc": "Seitliches Knieheben beansprucht die gerade und schräge Bauchmuskulatur sowie den Hüftbeuger. Es wird insbesondere die untere und schräge ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/WNJz6sQvoM8/0.jpg",
+    "image": "Side-Crunch-Bank.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Bauchmuskel",
+    "name": "Side-Crunch-Bank",
+    "section": "Bauchmuskeltraining",
+    "desc": "Diese Übung trainiert hauptsächlich die schräge Bauchmuskulatur. Der gerade Bauchmuskel wird durch die isometrische Anspannung ebenfalls ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/2TwpJu-02m8/0.jpg",
+    "image": "Sit-Ups.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Bauchmuskel",
+    "name": "Sit-Ups",
+    "section": "Bauchmuskeltraining",
+    "desc": "Sit-Ups trainieren insbesondere die gerade Bauchmuskulatur . Außerdem wird die seitliche Bauchmuskulatur und der Hüftbeuger beansprucht."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/jCq15yOSx7Q/0.jpg",
+    "image": "Sit-Ups_mit_Oberkoerperdrehen.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Bauchmuskel",
+    "name": "Sit-Ups mit Oberkörperdrehen",
+    "section": "Bauchmuskeltraining",
+    "desc": "Sit-Ups mit Oberkörperdrehen zielt auf das Training der seitlichen Bauchmuskulatur ab. Der gerade Bauchmuskel wird ebenso beansprucht."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/-ywk51MR684/0.jpg",
+    "image": "Sit-Ups_Schraegbank.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Bauchmuskel",
+    "name": "Sit-Ups Schrägbank",
+    "section": "Bauchmuskeltraining",
+    "desc": "Sit-Ups auf der Schrägbank trainieren insbesondere die gerade Bauchmuskulatur . Außerdem wird die seitliche Bauchmuskulatur und der Hüftbeuger beansprucht."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/HRUyy2NSyWM/0.jpg",
+    "image": "Swiss-Ball_Crunch.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Bauchmuskel",
+    "name": "Swiss-Ball Crunch",
+    "section": "Bauchmuskeltraining",
+    "desc": "Swiss-Ball Crunch trainieren die gerade Bauchmuskulatur ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/pSHjTRCQxIw/0.jpg",
+    "image": "Unterarmstuetz_-_Planks.jpg",
+    "execution": "Ohne Gerät",
+    "level": "",
+    "muscle": "Bauchmuskel",
+    "name": "Unterarmstütz - Planks",
+    "section": "Bauchmuskeltraining",
+    "desc": "Durch den Unterarmstütz wird insbesondere die gesamte Bauchmuskulatur trainiert, d.h. sowohl der gerade als auch der seitliche Bauchmuskel. Darüber hinaus ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/G8_A_23vu58/0.jpg",
+    "image": "Abduktion_-_Maschine,_sitzend.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Abduktion - Maschine, sitzend",
+    "section": "Beinmuskeltraining",
+    "desc": "Diese Übung kräftigt und formt den oberen Teil der Hüfte (mittlerer  Gesäßmuskel ) sehr effektiv."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Abduktion_am_Boden.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Abduktion am Boden",
+    "section": "Beinmuskeltraining",
+    "desc": "Diese Übung trainiert vor allem den mittleren, sowie den kleinen Teil des  Gesäßmuskels . Die besten Trainingsergebnisse werden ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/XjFJW0nqtIA/0.jpg",
+    "image": "Abduktion_am_Kabel.jpg",
+    "execution": "Kabelzug",
+    "level": "Fortgeschrittener",
+    "muscle": "Beinmuskel",
+    "name": "Abduktion am Kabel",
+    "section": "Beinmuskeltraining",
+    "desc": "Diese Übung trainiert vor allem den mittleren, sowie den kleinen Teil des  Gesäßmuskels ."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Adduktoren_am_Kabel.jpg",
+    "execution": "Kabelzug",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Adduktoren am Kabel",
+    "section": "Beinmuskeltraining",
+    "desc": "Diese Übung trainiert die Innenseite des Beines, genauer gesagt die  Adduktoren . Es sollten jeweils Sätze mit mehreren  ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/pCuUxmBXeZU/0.jpg",
+    "image": "Adduktoren_an_der_Maschine.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Adduktoren an der Maschine",
+    "section": "Beinmuskeltraining",
+    "desc": "Diese Übung trainiert die  Adduktoren ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/IvbK1vr5PS0/0.jpg",
+    "image": "Ausfallschritt_mit_Kurzhanteln.jpg",
+    "execution": "Hantel",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Ausfallschritt mit Kurzhanteln",
+    "section": "Beinmuskeltraining",
+    "desc": "Kniebeugen im Ausfallschritt mit Kurzhanteln trainieren den vierköpfigen Oberschenkelmuskel (Quadtrizeps) und die Gesäßmuskulatur ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/Xwi5MJcZQxI/0.jpg",
+    "image": "Ausfallschritt,_Langhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Beinmuskel",
+    "name": "Ausfallschritt, Langhantel",
+    "section": "Beinmuskeltraining",
+    "desc": "Kniebeugen im Ausfallschritt trainieren den vierköpfigen Oberschenkelmuskel (Quadrizeps) und die Gesäßmuskulatur ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/Z2n58m2i4jg/0.jpg",
+    "image": "Ausfallschritt,_ohne_Gewichte.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Ausfallschritt, ohne Gewichte",
+    "section": "Beinmuskeltraining",
+    "desc": "Ausfallschritte trainieren insbesondere den vierköpfigen Oberschenkelmuskel (Quadrizeps) und die Gesäßmuskulatur . Der Beinbeuger ist sekundär an der ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/lTX15Qk1xTM/0.jpg",
+    "image": "Beckenlift_-_Beckenheben_am_Boden.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Beckenlift - Beckenheben am Boden",
+    "section": "Beinmuskeltraining",
+    "desc": "Der Beckenlift trainiert den großen Gesäßmuskel ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/E-hZHlEa3UY/0.jpg",
+    "image": "Beinbeugen_-_Beincurls,_liegend.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Beinbeugen - Beincurls, liegend",
+    "section": "Beinmuskeltraining",
+    "desc": "Diese Übung trainiert alle Teile der  Beinrückseite  gleichermaßen. Des Weiteren wird der  Wadenmuskel  mit ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/yl17VqvvqL0/0.jpg",
+    "image": "Beinbeugen_-_Beincurls,_sitzend.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Beinbeugen - Beincurls, sitzend",
+    "section": "Beinmuskeltraining",
+    "desc": "Diese Übung beansprucht den  Beinbeuger  und im geringen Maße den  Zwillingswadenmuskel ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/Dowu97RWbzw/0.jpg",
+    "image": "Beinbeugen_-_Beincurls,_stehend.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Beinbeugen - Beincurls, stehend",
+    "section": "Beinmuskeltraining",
+    "desc": "Diese Übung trainiert den  Beinbeuger  in seiner Gesamtheit. Der  Wadenmuskel  wird ebenfalls gering trainiert."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/AvZoNTKFIWM/0.jpg",
+    "image": "Beinpresse.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Beinpresse",
+    "section": "Beinmuskeltraining",
+    "desc": "Die Beinpresse trainiert insbesondere den vorderen Oberschenkelmuskel, die Gesäßmuskulatur, die Adduktoren und den Beinbeuger."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/hVegSKPhPbk/0.jpg",
+    "image": "Beinstrecken.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Beinstrecken",
+    "section": "Beinmuskeltraining",
+    "desc": "Das Beinstrecken bietet eine hervorragende Möglichkeit zum isolierten Training der vorderen Oberschenkelmuskulatur . Es ist zu beachten, dass je mehr ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/DyeZM-_VnRc/0.jpg",
+    "image": "Bergsteiger.jpg",
+    "execution": "Ohne Gerät",
+    "level": "",
+    "muscle": "Beinmuskel",
+    "name": "Bergsteiger",
+    "section": "Beinmuskeltraining",
+    "desc": "Die Bergsteiger-Übung kräftigt insbesondere die Bein- und Gesäßmuskulatur."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/VH-8aYbDxXA/0.jpg",
+    "image": "Frontale_Kniebeugen.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Beinmuskel",
+    "name": "Frontale Kniebeugen",
+    "section": "Beinmuskeltraining",
+    "desc": "Diese Variante des Kniebeugens konzentriert die Muskelspannung, im Gegensatz zu den klassischen Kniebeugen, stärker auf den vierköpfigen ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/aZE3gcV1qTs/0.jpg",
+    "image": "Good-Mornings.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Beinmuskel",
+    "name": "Good-Mornings",
+    "section": "Beinmuskeltraining",
+    "desc": "Diese Übung konzentriert sich auf den Gesäßmuskel und der Beinrückseite, trainiert jedoch des Weiteren den Rückenstrecker in der ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/64PFHtq5XO8/0.jpg",
+    "image": "Hackenschmidt_Kniebeuge_-_Langhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Beinmuskel",
+    "name": "Hackenschmidt Kniebeuge - Langhantel",
+    "section": "Beinmuskeltraining",
+    "desc": "Hackenschmidt Kniebeuge trainieren insbesondere den vorderen Oberschenkelmuskel. Außerdem an der Übung beteiligt sind der Beinbeuger, die Gesäßmuskulatur ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/t1T43EXCyVY/0.jpg",
+    "image": "Hackenschmidt_Kniebeuge_Beinpresse_-_Maschine.jpg",
+    "execution": "Hantel",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Hackenschmidt Kniebeuge Beinpresse - Maschine",
+    "section": "Beinmuskeltraining",
+    "desc": "Hackenschmidt Kniebeuge in der Beinpresse trainieren insbesondere den vorderen Oberschenkelmuskel. Außerdem an der Übung beteiligt sind der Beinbeuger, die ..."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Hueftstrecken_-_Maschine.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Hüftstrecken - Maschine",
+    "section": "Beinmuskeltraining",
+    "desc": "Diese Übung betont hauptsächlich den Gesäßmuskel und beansprucht dabei im geringen Maße Teile des Beinbizeps ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/Fg82HDowDuw/0.jpg",
+    "image": "Hueftstrecken_am_Boden.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Beinmuskel",
+    "name": "Hüftstrecken am Boden",
+    "section": "Beinmuskeltraining",
+    "desc": "Diese Übung trainiert und formt den Gesäßmuskel im besonderen Maße. Des Weiteren wird bei kompletter Streckung des Beines der ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/xUCa5__rPHA/0.jpg",
+    "image": "Hueftstrecken_am_Kabel.jpg",
+    "execution": "Kabelzug",
+    "level": "Fortgeschrittener",
+    "muscle": "Beinmuskel",
+    "name": "Hüftstrecken am Kabel",
+    "section": "Beinmuskeltraining",
+    "desc": "Mit dieser Übung wird insbesondere der Gesäßmuskel beansprucht. Im geringen Maße ist der  Beinbeuger  an dieser ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/DRpHAyLOasE/0.jpg",
+    "image": "Kniebeugen.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Beinmuskel",
+    "name": "Kniebeugen",
+    "section": "Beinmuskeltraining",
+    "desc": "Kniebeugen trainieren eine Vielzahl an Muskeln. Am intensivsten werden der vierköpfige Oberschenkelmuskel (Quadrizeps) , der Gesäßmuskel (Po), die ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/YqYi90vp8m4/0.jpg",
+    "image": "Kniebeugen_mit_Kurzhanteln.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Beinmuskel",
+    "name": "Kniebeugen mit Kurzhanteln",
+    "section": "Beinmuskeltraining",
+    "desc": "Kniebeugen eignen sich im Allgemeinen als Ganzkörpertraining. Der Schwerpunkt der Belastung entfällt dabei jedoch auf die Beinmuskulatur. Der vierköpfige ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/Ytsj2Cbbou8/0.jpg",
+    "image": "Kniebeugen,_ohne_Gewicht.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Beinmuskel",
+    "name": "Kniebeugen, ohne Gewicht",
+    "section": "Beinmuskeltraining",
+    "desc": "Kniebeugen eignen sich im Allgemeinen als Ganzkörpertraining. Der Schwerpunkt der Belastung entfällt dabei jedoch auf die Beinmuskulatur. Der vierköpfige ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/WbTz1z02pMs/0.jpg",
+    "image": "Alternierende_Bizepscurls_Kurzhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Bizeps",
+    "name": "Alternierende Bizepscurls Kurzhantel",
+    "section": "Bizepstraining",
+    "desc": "Alternierende Bizepscurls trainieren den Bizeps , den Oberarmspeichenmuskel und den Armbeuger . Durch das Heben der Ellbogen wird der vordere Teil ..."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Bizeps-Curls_21er.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Bizeps",
+    "name": "Bizeps-Curls 21er",
+    "section": "Bizepstraining",
+    "desc": "Durch 21er Bizeps Curls wird die Bizepsmuskulatur besonders intensiv trainiert."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/RSg-kHf_JxA/0.jpg",
+    "image": "Bizepscurls_-_SZ-Stange.jpg",
+    "execution": "Hantel",
+    "level": "Anfänger",
+    "muscle": "Bizeps",
+    "name": "Bizepscurls - SZ-Stange",
+    "section": "Bizepstraining",
+    "desc": "Bizepscurls mit einer SZ-Stange trainieren den Bizeps , den Oberarmspeichenmuskel und den Armbeuger . Das Verwenden einer SZ-Stange für Curls bietet ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/8gSeDCgjnBE/0.jpg",
+    "image": "Fitnessband_Uebungen.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Bizeps",
+    "name": "Fitnessband Übungen",
+    "section": "Bizepstraining",
+    "desc": ""
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Hammercurls_am_Geraet.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Bizeps",
+    "name": "Hammercurls am Gerät",
+    "section": "Bizepstraining",
+    "desc": ""
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/QsvHQyNwZgQ/0.jpg",
+    "image": "Hammercurls_mit_Kurzhanteln.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Bizeps",
+    "name": "Hammercurls mit Kurzhanteln",
+    "section": "Bizepstraining",
+    "desc": "Hammercurls beanspruchen insbesondere den Oberarmspeichenmuskel des Unterarms und kräftigt den Bizeps , sowie den Armbeuger. Hammercurls stellen dabei ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/3ymjqHMaRU8/0.jpg",
+    "image": "Kabelcurls_(hoher_Block).jpg",
+    "execution": "Kabelzug",
+    "level": "Fortgeschrittener",
+    "muscle": "Bizeps",
+    "name": "Kabelcurls (hoher Block)",
+    "section": "Bizepstraining",
+    "desc": "Kabelcurls am hohen Block beansprucht insbesondere die Bizeps-Muskulatur und den Armbeuge . Durch die Streckung des Bizepses wird dessen langer Kopf ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/z-zK---CuEQ/0.jpg",
+    "image": "Kabelcurls_(tiefer_Block).jpg",
+    "execution": "Kabelzug",
+    "level": "Fortgeschrittener",
+    "muscle": "Bizeps",
+    "name": "Kabelcurls (tiefer Block)",
+    "section": "Bizepstraining",
+    "desc": "Die Kabelcurls zeichnen sich durch die Konzentration auf die Bizeps-Muskulatur aus. Es kommt durch den Kabelzug zu einer regen Durchblutung der ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/PhPqfbTDphE/0.jpg",
+    "image": "Konzentrationscurls.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Bizeps",
+    "name": "Konzentrationscurls",
+    "section": "Bizepstraining",
+    "desc": "Durch Konzentrationscurls wird insbesondere die Bizesmuskulatur (beide Muskelköpfe gleichermaßen) und der Armbeuger trainiert."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/Ndimwk69qdk/0.jpg",
+    "image": "Langhantelcurls.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Bizeps",
+    "name": "Langhantelcurls",
+    "section": "Bizepstraining",
+    "desc": "Bizepscurls mit einer Langhantel trainieren den Bizeps in seiner Gesamtheit. Zudem wird der Armbeuger, der seitlich vom Bizeps liegt, mit beansprucht."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/tP4npaGUOmg/0.jpg",
+    "image": "Scott_Curls_-_SZ-Stange.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Bizeps",
+    "name": "Scott Curls - SZ-Stange",
+    "section": "Bizepstraining",
+    "desc": "Scott-Curls mit einer SZ-Stange beanspruchen hauptsächlich die Bizeps-Muskulatur und den Armbeuger. Durch die abgestützten Arme auf dem Ablagepult der ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/T73DSVFlucw/0.jpg",
+    "image": "Scott_Curls_-_Trainingsgeraet.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Bizeps",
+    "name": "Scott Curls - Trainingsgerät",
+    "section": "Bizepstraining",
+    "desc": "Scott Curls am Trainingsgerät sind eine hervorragende IIsolationsübung zum Training des Bizepses . Durch die abgestützten Arme auf dem Ablagepult der ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/T3MuX6P-7Mc/0.jpg",
+    "image": "Bankdruecken.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Brustmuskel",
+    "name": "Bankdrücken",
+    "section": "Brustmuskeltraining",
+    "desc": "Beim Bankdrücken werden alle Teile des großen und kleinen Brustmuskels gleichermaßen intensiv trainiert. Des Weiteren ist der vordere Teil der ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/0UWxMtdIzg0/0.jpg",
+    "image": "Bankdruecken_-_Trainingsgeraet.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Brustmuskel",
+    "name": "Bankdrücken - Trainingsgerät",
+    "section": "Brustmuskeltraining",
+    "desc": "Das Bankdrücken am Trainingsgerät trainiert die Brustmuskulatur , den vorderen Teil der Schultermuskulatur sowie der Trizeps."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/YiqN4MM-X-Y/0.jpg",
+    "image": "Bankdruecken_Kurzhantel,_flach.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Brustmuskel",
+    "name": "Bankdrücken Kurzhantel, flach",
+    "section": "Brustmuskeltraining",
+    "desc": "Bankdrücken mit Kurzhanteln dehnt die Brustmuskulatur durch den weiten Bogen der Ausführung verstärkt und trainiert diesen daher im besonderen Maße. ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/dyfIdzlAzN0/0.jpg",
+    "image": "Butterfly_Uebung.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Brustmuskel",
+    "name": "Butterfly Übung",
+    "section": "Brustmuskeltraining",
+    "desc": "Die Butterfly Übung trainiert isoliert den großen Brustmuskel , indem sie ihn gleichzeitig dehnt. Durch das Zusammenführung der Ellbogen beim Butterfly ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/ptQ4DZHhYLQ/0.jpg",
+    "image": "Dips.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Brustmuskel",
+    "name": "Dips",
+    "section": "Brustmuskeltraining",
+    "desc": "Werden Dips mit nach vorne geneigten Oberkörper durchgeführt, zielt die Übung auf das Training der Brustmuskulatur ab. Es wird insbesondere dessen ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/h9Wo7xYZyfM/0.jpg",
+    "image": "Fliegende_-_Maschine.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Brustmuskel",
+    "name": "Fliegende - Maschine",
+    "section": "Brustmuskeltraining",
+    "desc": "Diese Übung beansprucht den großen  Brustmuskel . Der  Schultermuskel  ist an der Übung ebenfalls beteiligt."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Fliegende_am_Kabelzug.jpg",
+    "execution": "Kabelzug",
+    "level": "Fortgeschrittener",
+    "muscle": "Brustmuskel",
+    "name": "Fliegende am Kabelzug",
+    "section": "Brustmuskeltraining",
+    "desc": "Fliegende am Kabelzug beanspruchen die Brustmuskulatur . Der Babelzug bewirkt, im Gegensatz zu Fliegende mit Kurzhanteln, eine ständige Zugkraft auf die ..."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Fliegende_Kabelzug_-_Negativbank.jpg",
+    "execution": "Kabelzug",
+    "level": "Fortgeschrittener",
+    "muscle": "Brustmuskel",
+    "name": "Fliegende Kabelzug - Negativbank",
+    "section": "Brustmuskeltraining",
+    "desc": ""
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/8yG7UgAM1t4/0.jpg",
+    "image": "Fliegende_mit_Kurzhanteln_(KH).jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Brustmuskel",
+    "name": "Fliegende mit Kurzhanteln (KH)",
+    "section": "Brustmuskeltraining",
+    "desc": "Fliegende mit Kurzhanteln trainieren isoliert die Brustmuskulatur . Gemeinsam mit der Brustmuskelübung Pull-Over , bilden Fliegende mit Kurzhanteln ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/TXoTvXG-KRs/0.jpg",
+    "image": "Fliegende_mit_Kurzhanteln,_Schraegbank.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Brustmuskel",
+    "name": "Fliegende mit Kurzhanteln, Schrägbank",
+    "section": "Brustmuskeltraining",
+    "desc": "Fliegende auf der Schrägbank trainieren durch die geneigte Position insbesondere die oberen Fasern (Schlüsselbeinfasern) der Brustmuskulatur . Gemeinsam ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/vQlS9WMd6CA/0.jpg",
+    "image": "Kabelzuege_ueber_Kreuz.jpg",
+    "execution": "Kabelzug",
+    "level": "Fortgeschrittener",
+    "muscle": "Brustmuskel",
+    "name": "Kabelzüge über Kreuz",
+    "section": "Brustmuskeltraining",
+    "desc": "Kabelzüge über Kreuz beanspruchen die Brustmuskulatur . Die Durchführung von vielen Wiederholungen bei Kabelzügen, erzeugt eine gute Muskeldurchblutung."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/nZp3JnRbsUk/0.jpg",
+    "image": "Liegestuetzen.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Brustmuskel",
+    "name": "Liegestützen",
+    "section": "Brustmuskeltraining",
+    "desc": "Liegestützen trainieren die große Brustmuskulatur und den Trizeps. Je nach Körpergewicht können Liegestützen ab einem bestimmten Kraftniveau keine ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/RwUwCNqk3-M/0.jpg",
+    "image": "Negativ-Bankdruecken_-_Negativbank.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Brustmuskel",
+    "name": "Negativ-Bankdrücken - Negativbank",
+    "section": "Brustmuskeltraining",
+    "desc": "Das Negativ-Bankdrücken beansprucht durch die nach unten geneigte Position die unteren Fasern des Brustmuskels . Diese Übung eignet sich somit dafür, den ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/fjBhbR_6Wyo/0.jpg",
+    "image": "Schraegbankdruecken.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Brustmuskel",
+    "name": "Schrägbankdrücken",
+    "section": "Brustmuskeltraining",
+    "desc": "Schrägbankdrücken trainiert die Brustmuskulatur - insbesondere dessen oberen Schlüßelbeinfasern. Ebenso beteilt sind der Trizeps und der vordere Teil ..."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Schraegbankdruecken_-_Multipresse.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Brustmuskel",
+    "name": "Schrägbankdrücken - Multipresse",
+    "section": "Brustmuskeltraining",
+    "desc": "Schrägbankdrücken an der Multipresse trainiert die Brustmuskulatur - insbesondere dessen oberen Schlüßelbeinfasern. Ebenso beteilt sind der Trizeps und ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/Nv_M6cKBGRk/0.jpg",
+    "image": "Schraegbankdruecken_mit_Kurzhanteln.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Brustmuskel",
+    "name": "Schrägbankdrücken mit Kurzhanteln",
+    "section": "Brustmuskeltraining",
+    "desc": "Schrägbankdrücken mit Kurzhanteln dehnt die Brustmuskulatur durch den weiten Bogen der Ausführung verstärkt und trainiert diesen daher im besonderen Maße ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/J3owwdVURc0/0.jpg",
+    "image": "Schraegbankdruecken_Trainingsgeraet.jpg",
+    "execution": "Kabelzug",
+    "level": "Anfänger",
+    "muscle": "Brustmuskel",
+    "name": "Schrägbankdrücken Trainingsgerät",
+    "section": "Brustmuskeltraining",
+    "desc": "Schrägbankdrücken trainiert die Brustmuskulatur - insbesondere dessen oberen Schlüßelbeinfasern. Ebenso beteilt sind der Trizeps und der vordere Teil ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/ERRHh56nLjA/0.jpg",
+    "image": "Ueberzuege_-_Pull-Over_Kurzhantel.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Brustmuskel",
+    "name": "Überzüge - Pull-Over Kurzhantel",
+    "section": "Brustmuskeltraining",
+    "desc": "Überzüge trainieren in erster Linie die Brustmuskulatur . Ebenso beteiligt ist der der Latissimus und der vordere Sägemuskel (Rippenbereich). Überzüge ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/npAgJd6t8y8/0.jpg",
+    "image": "Hyperextensions.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Rücken",
+    "name": "Hyperextensions",
+    "section": "Rückentraining",
+    "desc": "Hyperextension trainieren den Rückenstrecker und geringermaßen den Gesäßmuskel (Po) und den Beinbeuger (Beinrückseite). Zur Verstärkung der ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/6h3D4AXgiKQ/0.jpg",
+    "image": "Hyperextensions_-_Maschine.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Rücken",
+    "name": "Hyperextensions - Maschine",
+    "section": "Rückentraining",
+    "desc": "Diese Übung betont ausschließlich den kompletten  Rückenstrecker ."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Klimmzugmaschine.jpg",
+    "execution": "Hantel",
+    "level": "Anfänger",
+    "muscle": "Rücken",
+    "name": "Klimmzugmaschine",
+    "section": "Rückentraining",
+    "desc": "Klimmzüge an der Klimmzugmaschine beanspruchen die gesamte Rückenmuskulatur. Insbesondere wird der Latissimus trainiert."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/VNup5i4koOs/0.jpg",
+    "image": "Klimmzuege.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Rücken",
+    "name": "Klimmzüge",
+    "section": "Rückentraining",
+    "desc": "Klimmzüge eignen sich hervorrangend zum Training der gesamten Rückenmuskulatur. Dieses Rückentraining stärkt insbesondere den Rücken in der Tiefe, d.h. ..."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Klimmzuege_im_Untergriff.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Anfänger",
+    "muscle": "Rücken",
+    "name": "Klimmzüge im Untergriff",
+    "section": "Rückentraining",
+    "desc": "Klimmzüge im Untergriff beanspruchen den Latissimus , der Trapezmuskel, die dorsale Schultermuskulatur und den Bizeps. Insbesondere der Bizeps wird durch ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/fkYleRfubpE/0.jpg",
+    "image": "Kreuzheben.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Rücken",
+    "name": "Kreuzheben",
+    "section": "Rückentraining",
+    "desc": "Kreuzheben trainiert die gesamte Körpermuskulatur. Es eignet sich dabei besonders für die Ausbildung des Rückenstreckers, des Trapezmuskels, des ..."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Kreuzheben_mit_gestreckten_Beinen.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Rücken",
+    "name": "Kreuzheben mit gestreckten Beinen",
+    "section": "Rückentraining",
+    "desc": "Diese Übung trainiert den Rückenstrecker intensiv. Weiter wird durch das Aufrichten des Oberkörpers der große ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/Ipm1W7Z35ZI/0.jpg",
+    "image": "Langhantelrudern,_vorgebeugt.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Rücken",
+    "name": "Langhantelrudern, vorgebeugt",
+    "section": "Rückentraining",
+    "desc": "Diese Übung trainiert im besonderen Maße den  Latissimus , den hinteren Teil des Schultermuskels, den  Trapezmuskel , sowie ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/PADIwOuE3OM/0.jpg",
+    "image": "Latziehen_-_enger_Griff.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Rücken",
+    "name": "Latziehen - enger Griff",
+    "section": "Rückentraining",
+    "desc": "Latziehen mit einem engen Griff trainiert im besonderen Maße den Latissimus und den dorsalen Schultermuskel. Durch das Zusammenführen der Schulterblätter ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/OIIgH0eu8XY/0.jpg",
+    "image": "Latziehen_zum_Nacken.jpg",
+    "execution": "Kabelzug",
+    "level": "Anfänger",
+    "muscle": "Rücken",
+    "name": "Latziehen zum Nacken",
+    "section": "Rückentraining",
+    "desc": "Latziehen zum Nacken trainiert den Latissimus (insbesondere dessen äußeren Teile), den Trapezmuskel, den dorsalen Schultermuskel und den Bizeps. ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/BPNO8ttDoeQ/0.jpg",
+    "image": "Latziehen_zur_Brust.jpg",
+    "execution": "Kabelzug",
+    "level": "Anfänger",
+    "muscle": "Rücken",
+    "name": "Latziehen zur Brust",
+    "section": "Rückentraining",
+    "desc": "Latziehen zur Brust trainiert den tieferen Teil der Rückenmuskulatur. Insbesondere der Latissimus (vor allem die unteren und zentralen Fasern) und der ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/5t9DCHDkfNc/0.jpg",
+    "image": "Latziehen_zur_Brust_Untergriff.jpg",
+    "execution": "Kabelzug",
+    "level": "Anfänger",
+    "muscle": "Rücken",
+    "name": "Latziehen zur Brust Untergriff",
+    "section": "Rückentraining",
+    "desc": "Grundsätzlich zielt das Latziehen primär auf das Training des Latissimus und sekundär auf die Belastung des Bizeps ab. Die Variante des Untergriffs ..."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Reverse-Flys_in_Bauchlage.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Rücken",
+    "name": "Reverse-Flys in Bauchlage",
+    "section": "Rückentraining",
+    "desc": "Trainiert alle drei Anteile des Kapuzenmuskels, den gesamten Rückenstrecker und den Deltamuskel. "
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/xJacqHt7A1s/0.jpg",
+    "image": "Rudern_-_Kurzhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Rücken",
+    "name": "Rudern - Kurzhantel",
+    "section": "Rückentraining",
+    "desc": "Die Muskelbeanspruchung beim Rudern (Kurzhantel) liegt auf insbesondere auf dem Latissimus , dem dorsalen Schultermuskel und dem Trapezmuskel. Ebenso ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/PuZVdFxp54U/0.jpg",
+    "image": "Rudern_-_Maschine.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Rücken",
+    "name": "Rudern - Maschine",
+    "section": "Rückentraining",
+    "desc": "Diese Übung beansprucht die Rücken-Muskulatur, insbesondere den  Latissimus . Trapezmuskel und Bizeps werden ebenfalls trainiert."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/5VZYE_kfRzw/0.jpg",
+    "image": "Rudern_am_Seilzug,_enger_Griff.jpg",
+    "execution": "Kabelzug",
+    "level": "Anfänger",
+    "muscle": "Rücken",
+    "name": "Rudern am Seilzug, enger Griff",
+    "section": "Rückentraining",
+    "desc": "Die Muskelbeanspruchung von Rudern am Seilzug konzentriert sich auf das Training des Latissimus (insbesondere dessen unteren Teil), den dorsalen ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/cc6UVRS7PW4/0.jpg",
+    "image": "Rueckenstrecken_im_Liegen_-_Superman.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Rücken",
+    "name": "Rückenstrecken im Liegen - Superman",
+    "section": "Rückentraining",
+    "desc": "Durch das Rückenstrecken werden hauptsächlich der große Gesäßmuskel (Po) und der Rückenstrecker trainiert."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/I4kgcUIq-mw/0.jpg",
+    "image": "Schulterheben_hinter_Ruecken.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Rücken",
+    "name": "Schulterheben hinter Rücken",
+    "section": "Rückentraining",
+    "desc": "Schulterheben hinter dem Rücken trainiert den oberen Teil der Trapezmuskulatur (Nackenmuskulatur)."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/hjF30sur0xo/0.jpg",
+    "image": "Schulterheben_mit_Kurzhanteln_-_Shrugs.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Rücken",
+    "name": "Schulterheben mit Kurzhanteln - Shrugs",
+    "section": "Rückentraining",
+    "desc": "Schulterheben mit Kurzhanteln trainiert den oberen Teil der Trapezmuskulatur (Nackenmuskulatur). Nähern sich die Schulterblätter, werden auch die ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/vh3bLz_6pGc/0.jpg",
+    "image": "Schulterheben_mit_Langhantel_-_Shrugs.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Rücken",
+    "name": "Schulterheben mit Langhantel - Shrugs",
+    "section": "Rückentraining",
+    "desc": "Schulterheben mit einer Langhantel trainiert den oberen Teil der Trapezmuskulatur (Nackenmuskulatur)."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/5nOXpkh_qQ0/0.jpg",
+    "image": "T-Hantel_Rudern,_vorgebeugt.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Rücken",
+    "name": "T-Hantel Rudern, vorgebeugt",
+    "section": "Rückentraining",
+    "desc": "T-Hantel Rudern beansprucht folgende Muskeln: Latissimus , den dorsalen Schultermuskel , den Trapezmuskel und den Bizeps."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/AEKDXWcdM1Q/0.jpg",
+    "image": "Ueberzuege_am_Seilzug.jpg",
+    "execution": "Kabelzug",
+    "level": "Fortgeschrittener",
+    "muscle": "Rücken",
+    "name": "Überzüge am Seilzug",
+    "section": "Rückentraining",
+    "desc": "Überzüge am Seilzug beanspruchen isoliert den Latissimus , den dorsalen Schultermuskel und die hintere Schultermuskulatur."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/eg27yPteJaw/0.jpg",
+    "image": "Arnold_Presse.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Schultermuskel",
+    "name": "Arnold Presse",
+    "section": "Schultermuskeltraining",
+    "desc": "Die Schulterübung Arnold-Presse beansprucht die Schultermuskulatur (insbesondere dessen vorderen Teil). Im Gegensatz zu herkömmlichen Schulterdückübungen ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/vcYK8X0X5Vc/0.jpg",
+    "image": "Aufrechtes_Rudern_(Frontziehen)_-_Langhantel.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Schultermuskel",
+    "name": "Aufrechtes Rudern (Frontziehen) - Langhantel",
+    "section": "Schultermuskeltraining",
+    "desc": "Aufrechtes Rudern mit einer Langhantel trainiert den Trapezmuskel (besonders dessen oberen Teil), die Schultermuskulatur und den Bizeps."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/0LgV3ucnX4o/0.jpg",
+    "image": "Frontheben_-_Langhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Schultermuskel",
+    "name": "Frontheben - Langhantel",
+    "section": "Schultermuskeltraining",
+    "desc": "Frontheben mit einer Langhantel beansprucht insbesondere den vorderen Teil der Schultermuskulatur und in geringem Maße die Schlüsselbeinfasern der ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/J-wmqE59WiM/0.jpg",
+    "image": "Frontheben_am_Kabelzug.jpg",
+    "execution": "Kabelzug",
+    "level": "Profi",
+    "muscle": "Schultermuskel",
+    "name": "Frontheben am Kabelzug",
+    "section": "Schultermuskeltraining",
+    "desc": "Mit dieser Übung wird der vordere Teil des Schultermuskels im besonderen Maße beansprucht. Des Weiteren werden die oberen Fasern des ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/d50kGpckR68/0.jpg",
+    "image": "Frontheben_mit_einer_Kurzhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Schultermuskel",
+    "name": "Frontheben mit einer Kurzhantel",
+    "section": "Schultermuskeltraining",
+    "desc": "Diese Übung trainiert vorallemdingen den vorderen Teil des Schultermuskels. Mit beansprucht werden im geringen Maß der  kurze Kopf des ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/SN6CquNcJDs/0.jpg",
+    "image": "Frontheben_mit_Kurzhanteln.jpg",
+    "execution": "Hantel",
+    "level": "Anfänger",
+    "muscle": "Schultermuskel",
+    "name": "Frontheben mit Kurzhanteln",
+    "section": "Schultermuskeltraining",
+    "desc": "Frontheben mit Kurzhanteln beansprucht insbesondere den vorderen Teil der Schultermuskulatur ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/Isx0MwnZMQU/0.jpg",
+    "image": "Nackendruecken_Langhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Schultermuskel",
+    "name": "Nackendrücken Langhantel",
+    "section": "Schultermuskeltraining",
+    "desc": "Mit dieser Übung wird der mittlere, sowie der hintere Teil des  Deltamuskels Nackendrücken trainiert die Schultermuskulatur . Insbesondere ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/ho9y2BLUNjA/0.jpg",
+    "image": "Pushpress.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Schultermuskel",
+    "name": "Pushpress",
+    "section": "Schultermuskeltraining",
+    "desc": ""
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/pC_xhiyCYQw/0.jpg",
+    "image": "Reverse_Fliegende_-_Maschine.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Schultermuskel",
+    "name": "Reverse Fliegende - Maschine",
+    "section": "Schultermuskeltraining",
+    "desc": "Mit dieser Übung wird der hintere Teil des  Schultermuskels  besonders trainiert.  Der  Tapezmuskel  ist im geringen ..."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "Schulterdruecken_-_Maschine.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Schultermuskel",
+    "name": "Schulterdrücken - Maschine",
+    "section": "Schultermuskeltraining",
+    "desc": "Diese Übung trainert den Schultermuskel . Hauptsächlich dessen mittlerern sowie vorderen Teil."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/c8e6MNWlpww/0.jpg",
+    "image": "Schulterdruecken_Langhantel_-_Military_Press.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Schultermuskel",
+    "name": "Schulterdrücken Langhantel - Military Press",
+    "section": "Schultermuskeltraining",
+    "desc": "Das Schulterdrücken trainiert insbesondere den vorderen und mittleren Teil der Schulter-Muskulatur , den Trizeps und den oberen Teil des Trapezmuskels ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/mBVSpUXKewk/0.jpg",
+    "image": "Schulterdruecken_mit_Kurzhanteln.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Schultermuskel",
+    "name": "Schulterdrücken mit Kurzhanteln",
+    "section": "Schultermuskeltraining",
+    "desc": "Schulterdrücken mit Kurzhanteln trainieren die Schultermuskulatur (insbesondere dessen mittleren Teil). Ebenso beansprucht werden der Trapezmuskel sowie ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/2PbN2k4tNpc/0.jpg",
+    "image": "Seitheben_-_Maschine.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Schultermuskel",
+    "name": "Seitheben - Maschine",
+    "section": "Schultermuskeltraining",
+    "desc": "Diese Übung trainiert den  Deltamuskel , insbesondere dessen mittleren Teil."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/C6Vccqjm2cQ/0.jpg",
+    "image": "Seitheben_am_Kabelzug.jpg",
+    "execution": "Kabelzug",
+    "level": "Fortgeschrittener",
+    "muscle": "Schultermuskel",
+    "name": "Seitheben am Kabelzug",
+    "section": "Schultermuskeltraining",
+    "desc": "Seitheben am Kabelzug trainiert die Schultermuskulatur isoliert. Die Betonung liegt dabei auf die mittleren Fasern."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/3azaflHkDsM/0.jpg",
+    "image": "Seitheben_mit_Kurzhanteln.jpg",
+    "execution": "Hantel",
+    "level": "Anfänger",
+    "muscle": "Schultermuskel",
+    "name": "Seitheben mit Kurzhanteln",
+    "section": "Schultermuskeltraining",
+    "desc": "Das Seitheben mit Kurzhanteln trainiert den mittleren Teil der Schultermuskulatur ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/CqbMzLqLlY0/0.jpg",
+    "image": "Seitheben,_liegend.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Schultermuskel",
+    "name": "Seitheben, liegend",
+    "section": "Schultermuskeltraining",
+    "desc": "Die Betonung bei dieser Übung liegt auf den mittleren und hinteren Teil des Schultermuskels, sowie auf den Nackenmuskel (Trapez). Diese Übung ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/e_OGoQ94mPQ/0.jpg",
+    "image": "Umsetzen_und_Druecken.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Schultermuskel",
+    "name": "Umsetzen und Drücken",
+    "section": "Schultermuskeltraining",
+    "desc": "Das Umsetzen und Drücken beansprucht primär die Schultermuskulatur. Darüber hinaus sind maßgeblich die gesamte Rücken und Beinmuskulatur beteiligt."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/2ai0_UVWJ64/0.jpg",
+    "image": "Vorgebeugtes_Seitheben_am_Kabel.jpg",
+    "execution": "Kabelzug",
+    "level": "Fortgeschrittener",
+    "muscle": "Schultermuskel",
+    "name": "Vorgebeugtes Seitheben am Kabel",
+    "section": "Schultermuskeltraining",
+    "desc": "Das vorgebeugte Seitheben am Kabelzug zielt auf den hinteren Teil der Schulter-Muskulatur und den Trapezmuskel (Nacken) ab."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/bur1NuOKi0E/0.jpg",
+    "image": "Vorgebeugtes_Seitheben_Kurzhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Schultermuskel",
+    "name": "Vorgebeugtes Seitheben Kurzhantel",
+    "section": "Schultermuskeltraining",
+    "desc": "Das vorgebeugte Seitheben mit Kurzhanteln zielt auf den hinteren Teil der Schulter-Muskulatur und den Trapezmuskel (Nacken) ab."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/USeSXIyxSAo/0.jpg",
+    "image": "Dips_an_der_Bank_-_Arnold-Dips.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Trizeps",
+    "name": "Dips an der Bank - Arnold-Dips",
+    "section": "Trizepstraining",
+    "desc": "Diese Form der Dips beansprucht insbesondere die Trizeps-Muskulatur . Ebenfalls beteiligt ist die Brustmuskulatur und der vordere Teil des Deltamuskels ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/zhAncRwYun8/0.jpg",
+    "image": "Enges_Bankdruecken.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Trizeps",
+    "name": "Enges Bankdrücken",
+    "section": "Trizepstraining",
+    "desc": "Das enge Bankdrücken beansprucht durch die besondere Armstellung die Trizeps-Muskulatur . Des Weiteren wird, ähnlichen dem herkömmlichen Bankdrücken, ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/cYqLEk2UrbQ/0.jpg",
+    "image": "French-Press_-_Stirndruecken.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Trizeps",
+    "name": "French-Press - Stirndrücken",
+    "section": "Trizepstraining",
+    "desc": "Die Trizepsübung French-Press trainiert alle drei Muskelköpfe des Trizeps . Sie stellt eine Grundübung im Trizepstraining dar."
+  },
+  {
+    "webimage": "/img/uebung.jpg",
+    "image": "French-Press_Langhantel.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Trizeps",
+    "name": "French-Press Langhantel",
+    "section": "Trizepstraining",
+    "desc": "French-Press mit einer Langhantel trainiert alle drei Muskelköpfe des Trizeps . Sie stellt eine Grundübung im Trizepstraining dar. Der Haltegriff an ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/eKmSgxvRDcE/0.jpg",
+    "image": "Kickbacks_am_Kabelzug.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Trizeps",
+    "name": "Kickbacks am Kabelzug",
+    "section": "Trizepstraining",
+    "desc": "Diese Übung beansprucht den Trizeps-Muskel . Durch die Durchführung am Kabel steht der Trizeps unter ständiger Belastung, was die ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/5tUaFlvD-3c/0.jpg",
+    "image": "Kickbacks_Kurzhantel.jpg",
+    "execution": "Hantel",
+    "level": "Profi",
+    "muscle": "Trizeps",
+    "name": "Kickbacks Kurzhantel",
+    "section": "Trizepstraining",
+    "desc": "Kickbacks mit einer Kurzhantel beanspruchen den Trizeps . Es kommt zu einer regen Muskeldurchblutung. Die besten Ergebnisse lassen sich durch viele ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/aorhy8zeFlA/0.jpg",
+    "image": "Schaedelzertruemmerer.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Trizeps",
+    "name": "Schädelzertrümmerer",
+    "section": "Trizepstraining",
+    "desc": "Schädelzertrümmerer beanspruchen alle drei Muskelköpfer der Trizeps-Muskulatur gleichermaßen."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/J0DnG1_S92I/0.jpg",
+    "image": "Trizeps_Liegestuetzen.jpg",
+    "execution": "Ohne Gerät",
+    "level": "Fortgeschrittener",
+    "muscle": "Trizeps",
+    "name": "Trizeps Liegestützen",
+    "section": "Trizepstraining",
+    "desc": "Im Vergleich zu herkömmlichen Liegestützen wird der Fokus von der Brustmuskulatur auf den Trizeps verlegt. Die Trizeps Liegestützen eignen sich daher zum ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/Ba42CXEB-g0/0.jpg",
+    "image": "Trizepsdruecken_am_Kabelzug.jpg",
+    "execution": "Kabelzug",
+    "level": "Anfänger",
+    "muscle": "Trizeps",
+    "name": "Trizepsdrücken am Kabelzug",
+    "section": "Trizepstraining",
+    "desc": "Trizepsdrücken trainiert alle drei Muskelköpfe der Trizepsmuskulatur gleichermaßen. Sie erlaubt die gezielte und isolierte Ausbildung des Trizepses."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/o5efIgkzZbk/0.jpg",
+    "image": "Trizepsdruecken_an_der_Maschine.jpg",
+    "execution": "Trainingsgerät",
+    "level": "Anfänger",
+    "muscle": "Trizeps",
+    "name": "Trizepsdrücken an der Maschine",
+    "section": "Trizepstraining",
+    "desc": ""
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/-uUkpCG8i0w/0.jpg",
+    "image": "Trizepsdruecken_beidarmig_Kurzhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Trizeps",
+    "name": "Trizepsdrücken beidarmig Kurzhantel",
+    "section": "Trizepstraining",
+    "desc": "Das beidarmige Trizepsdrücken dehnt durch die vertikale Position des Oberarms den langen Kopf der Trizeps-Muskulatur , wodurch er im besonderen Maße ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/JOAP2eif29A/0.jpg",
+    "image": "Trizepsdruecken_Kurzhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Trizeps",
+    "name": "Trizepsdrücken Kurzhantel",
+    "section": "Trizepstraining",
+    "desc": "Trizepsdrücken über dem Kopf mit einer Kurzhantel dehnt und beansprucht vorallem den langen Kopf der Trizeps-Muskulatur ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/DT0FNiFZcNI/0.jpg",
+    "image": "Trizepsdruecken_Langhantel_ueber_Kopf.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Trizeps",
+    "name": "Trizepsdrücken Langhantel über Kopf",
+    "section": "Trizepstraining",
+    "desc": "Das Trizepsdrücken über Kopf trainiert die Trizeps-Muskulatur . Durch die senkrechte Stellung des Oberarmes dehnt sie den langen Kopf des Trizeps, wodurch ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/CcbcF0AP388/0.jpg",
+    "image": "Trizepsdruecken_mit_Seilgriff.jpg",
+    "execution": "Kabelzug",
+    "level": "Fortgeschrittener",
+    "muscle": "Trizeps",
+    "name": "Trizepsdrücken mit Seilgriff",
+    "section": "Trizepstraining",
+    "desc": "Diese Form des Trizepsdrückens am Seil trainiert den Trizeps ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/c6Ek7RIVgkQ/0.jpg",
+    "image": "Trizepsdruecken_Untergriff_am_Kabelzug.jpg",
+    "execution": "Kabelzug",
+    "level": "Fortgeschrittener",
+    "muscle": "Trizeps",
+    "name": "Trizepsdrücken Untergriff am Kabelzug",
+    "section": "Trizepstraining",
+    "desc": "Beim Trizepsbeugen wird aufgrund des Untergriff insbesondere der mediale Kopf des Trizepses (Innenseite) trainiert. Des Weiteren werden Teile des ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/PZ7XoaBT-W4/0.jpg",
+    "image": "Trizepsdruecken_ueber_Kopf_vorgebeugt_am_Kabelzug.jpg",
+    "execution": "Kabelzug",
+    "level": "Fortgeschrittener",
+    "muscle": "Trizeps",
+    "name": "Trizepsdrücken über Kopf vorgebeugt am Kabelzug",
+    "section": "Trizepstraining",
+    "desc": "Diese Übung trainiert ausschließlich die Trizeps-Muskulatur."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/BHm32lG195M/0.jpg",
+    "image": "Handbelenk-Beugen_Kurzhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Unterarm",
+    "name": "Handbelenk-Beugen Kurzhantel",
+    "section": "Unterarmtraining",
+    "desc": "Das Handgelenk-Beugen mit einer Kurzhantel trainiert den inneren Teil des Unterarmmuskels , den Hand- und Fingerbeuger."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/7dghze0ViOY/0.jpg",
+    "image": "Handgelenk-Beugen_hinter_dem_Koerper.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Unterarm",
+    "name": "Handgelenk-Beugen hinter dem Körper",
+    "section": "Unterarmtraining",
+    "desc": "Diese Form des Unteram-Beugens trainiert die Beugemuskeln des Unterarms ."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/pOKMQnDlB6A/0.jpg",
+    "image": "Handgelenk-Beugen_Langhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Unterarm",
+    "name": "Handgelenk-Beugen Langhantel",
+    "section": "Unterarmtraining",
+    "desc": "Handgelenk-Beugen mit der Langhantel trainiert den inneren Teil des Unterarmmuskels (Handbeuger)."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/GvFIzXg6IDs/0.jpg",
+    "image": "Handgelenk-Strecken_Kurzhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Unterarm",
+    "name": "Handgelenk-Strecken Kurzhantel",
+    "section": "Unterarmtraining",
+    "desc": "Das Handgelenk-Strecken mit einer Kurzhantel kräftigt den äußeren Teil des Unterarmmuskels (Handstrecker, Fingerstrecker). Diese Übung eignet sich ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/rRmkHs44npE/0.jpg",
+    "image": "Handgelenk-Strecken_Langhantel.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Unterarm",
+    "name": "Handgelenk-Strecken Langhantel",
+    "section": "Unterarmtraining",
+    "desc": "Handgelenk-Strecken kräftigt äußeren Teil des Unterarmmuskels (Handstrecker, Fingerstrecker). Diese Übung eignet sich hervorragend zur Stärkung des ..."
+  },
+  {
+    "webimage": "http://img.youtube.com/vi/mIEhTV7hm74/0.jpg",
+    "image": "Langhantelcurls_im_Obergriff.jpg",
+    "execution": "Hantel",
+    "level": "Fortgeschrittener",
+    "muscle": "Unterarm",
+    "name": "Langhantelcurls im Obergriff",
+    "section": "Unterarmtraining",
+    "desc": "Langhantelcurls im Obergriff trainierern insbesondere den Handstrecker der Unterammuskulatur und den Armbeuger."
+  }
+]
